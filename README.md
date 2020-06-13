@@ -1,5 +1,7 @@
 # liveplayer-vc
 
+LivePlayer H5 播放器， 使用 vue-cli 集成示例
+
 ## Project setup
 ```
 yarn install
