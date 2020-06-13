@@ -1,17 +1,19 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <LivePlayer videoUrl="video.mp4"/>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import LivePlayer from '@liveqing/liveplayer'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    LivePlayer
   }
 }
 </script>
