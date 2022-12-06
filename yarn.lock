@@ -765,9 +765,9 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@liveqing/liveplayer@2.1.7":
-  version "2.1.7"
-  resolved "https://registry.yarnpkg.com/@liveqing/liveplayer/-/liveplayer-2.1.7.tgz#ca3ecf973e01af59a9d6e051e455f63f36aeff24"
+"@liveqing/liveplayer@2.3.2":
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/@liveqing/liveplayer/-/liveplayer-2.3.2.tgz#73b67c2bb97cf60e4556b93e18a2b579d6778c3c"
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
@@ -2450,8 +2450,8 @@ decamelize@^1.2.0:
   resolved "https://registry.npm.taobao.org/decamelize/download/decamelize-1.2.0.tgz?cache=0&sync_timestamp=1580010393599&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fdecamelize%2Fdownload%2Fdecamelize-1.2.0.tgz#f6534d15148269b20352e7bee26f501f9a191290"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npm.taobao.org/decode-uri-component/download/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
 
 deep-equal@^1.0.1:
   version "1.1.1"
