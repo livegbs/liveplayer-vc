@@ -765,9 +765,9 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@liveqing/liveplayer@2.1.7":
-  version "2.1.7"
-  resolved "https://registry.yarnpkg.com/@liveqing/liveplayer/-/liveplayer-2.1.7.tgz#ca3ecf973e01af59a9d6e051e455f63f36aeff24"
+"@liveqing/liveplayer@2.3.2":
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/@liveqing/liveplayer/-/liveplayer-2.3.2.tgz#73b67c2bb97cf60e4556b93e18a2b579d6778c3c"
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
@@ -3321,7 +3321,7 @@ fsevents@~2.1.2:
 
 function-bind@^1.1.1:
   version "1.1.1"
-  resolved "https://registry.npm.taobao.org/function-bind/download/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
+  resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
 
 functional-red-black-tree@^1.0.1:
   version "1.0.1"
